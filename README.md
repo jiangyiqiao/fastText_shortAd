@@ -45,7 +45,7 @@ the dependenceies is saved /usr/local/lib/python3.5/dist-packages/fastText,inclu
 
 ## result
 
-    __label__not_ad:	 precision:0.879189	 recall:0.992830	 f:0.932560
-    __label__ad:	 precision:0.989747	 recall:0.835337	 f:0.906010
+    __label__not_ad:    precision:0.879189	 recall:0.992830	 f:0.932560
+    __label__ad:	    precision:0.989747	 recall:0.835337	 f:0.906010
 
 
